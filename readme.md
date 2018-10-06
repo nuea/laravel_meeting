@@ -1,4 +1,4 @@
-# Setup a Laravel Project
+# Setup a Laravel Project With MySQL
 ## Install Composer Dependencies
 following command: 
 
